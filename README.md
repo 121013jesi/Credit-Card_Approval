@@ -83,7 +83,7 @@ Tune hyperparameters for model optimization.
 Clone this repo:
 
 
-git clone https://github.com/your-username/credit-card-approval.git
+git clone (https://github.com/121013jesi/Credit-Card_Approval/blob/main/credit%20card%20approval%20using%20machine%20learning.ipynb)
 cd credit-card-approval
 Install dependencies:
 
